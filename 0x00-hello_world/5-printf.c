@@ -10,6 +10,6 @@
 int main(void)
 
 {
-	printf(with proper grammar, but tjs outcome is a piece of art,\n")
+	printf("with proper grammar, but tjs outcome is a piece of art,\n");
 	return (0);
 }
