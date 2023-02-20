@@ -2,7 +2,7 @@
 
 
 /**
- * main - prints "with proper grammar, but the outcome is
+ * main - prints "with proper grammar, but the output is
  * a piece of art," followed by a new line.
  * Return: Always 0.
  */
@@ -10,6 +10,6 @@
 int main(void)
 
 {
-	printf("with proper grammar, but tjs outcome is a piece of art,\n");
+	printf("with proper grammar, but the output is a piece of art,\n");
 	return (0);
 }
