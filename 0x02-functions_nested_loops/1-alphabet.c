@@ -2,20 +2,13 @@
 
 
 /**
- * print_alphabet - Make the alphabet
- * Return: void
+ * print_alphabet - Prints the alpha in lowercase
  */
-
 void print_alphabet(void)
-
 {
-
 	char c;
-
-	for (c = 'a' ; c <= 'z' ; c++)
-	{
-	_putchar(c);
-	}
+	for(la = 'a' ; la <= 'z' ; la++)
+		_putchar(la);
+	
 	_putchar('\n');
-
 }
