@@ -1,8 +1,8 @@
-include "main.h"
+#include "main.h"
 
 /**
- * print_last_digit - chack main
- * @r: inpu an integer
+ * print_last_digit - check main
+ * @r: input an integer
  * Description: This prints the last digit of a number
  * Return: prints the last digit of number
  */
